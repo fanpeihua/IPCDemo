@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IPCDemo</string>
+    <string name="to_second">跳转Second</string>
+    <string name="to_third">跳转Third</string>
+</resources>
