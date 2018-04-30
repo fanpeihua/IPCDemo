@@ -67,6 +67,8 @@
         </activity>
         <activity android:name=".socket.TCPClientActivity">
         </activity>
+        <activity android:name=".activity.BinderPoolTestActivity">
+        </activity>
     </application>
 
 </manifest>
