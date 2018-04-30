@@ -9,9 +9,9 @@ public class User implements Serializable, Parcelable {
 
     public static int sUserId = 1;
 
-    private int userId;
-    private String userName;
-    private Boolean isMale;
+    public int userId;
+    public String userName;
+    public Boolean isMale;
 
     public User() {}
 
